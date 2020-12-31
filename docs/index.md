@@ -5,11 +5,11 @@ tagline: David Spangenberg & Isaac Allen Projects
 actionText: Quick Start →
 actionLink: /guide/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by David Spangenberg with ❤️
+- title: Good Job
+  details: Isaac is clever
+- title: What a Tidy Solution
+  details: Only changed one line of code
+- title: Hot Reload is Fun
+  details: And makes for happier developers
+footer: Made by David Spangenberg & Isaac Allen with ❤️
 ---
