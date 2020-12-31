@@ -26,6 +26,6 @@ deploy:
     github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
     repo: busmcrider/deploy
     keep-history: true
-    target-branch: master
+    target-branch: main
     on:
-        branch: master
+        branch: main
